@@ -1,6 +1,3 @@
 ### dependency
 streamlit
-glob
-os
-torch
 
